@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2_4.c",
+              "DocumentMoniker": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_4.c",
+              "RelativeDocumentMoniker": "chapter 2 practice\\2_4.c",
+              "ToolTip": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_4.c",
+              "RelativeToolTip": "chapter 2 practice\\2_4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-23T05:23:31.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2_3.c",
+              "DocumentMoniker": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_3.c",
+              "RelativeDocumentMoniker": "chapter 2 practice\\2_3.c",
+              "ToolTip": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_3.c",
+              "RelativeToolTip": "chapter 2 practice\\2_3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-23T05:13:35.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2_2.c",
+              "DocumentMoniker": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_2.c",
+              "RelativeDocumentMoniker": "chapter 2 practice\\2_2.c",
+              "ToolTip": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_2.c",
+              "RelativeToolTip": "chapter 2 practice\\2_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-23T04:39:46.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
