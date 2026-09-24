@@ -1,17 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\",
+  "WorkspaceRootPath": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{36F10710-5985-4368-9B1A-AF0C2DF2036D}|chapter 2 practice\\chapter 2 practice.vcxproj|solutionrelative:chapter 2 practice\\2_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -27,10 +55,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "2_11.c",
+              "DocumentMoniker": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_11.c",
+              "RelativeDocumentMoniker": "chapter 2 practice\\2_11.c",
+              "ToolTip": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_11.c",
+              "RelativeToolTip": "chapter 2 practice\\2_11.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-24T10:33:21.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2_10.c",
+              "DocumentMoniker": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_10.c",
+              "RelativeDocumentMoniker": "chapter 2 practice\\2_10.c",
+              "ToolTip": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_10.c",
+              "RelativeToolTip": "chapter 2 practice\\2_10.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-24T10:27:00.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2_9.c",
+              "DocumentMoniker": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_9.c",
+              "RelativeDocumentMoniker": "chapter 2 practice\\2_9.c",
+              "ToolTip": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_9.c",
+              "RelativeToolTip": "chapter 2 practice\\2_9.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-24T08:06:54.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2_8.c",
+              "DocumentMoniker": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_8.c",
+              "RelativeDocumentMoniker": "chapter 2 practice\\2_8.c",
+              "ToolTip": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_8.c",
+              "RelativeToolTip": "chapter 2 practice\\2_8.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-24T08:02:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2_7.c",
+              "DocumentMoniker": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_7.c",
+              "RelativeDocumentMoniker": "chapter 2 practice\\2_7.c",
+              "ToolTip": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_7.c",
+              "RelativeToolTip": "chapter 2 practice\\2_7.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-24T07:51:31.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2_6.c",
+              "DocumentMoniker": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_6.c",
+              "RelativeDocumentMoniker": "chapter 2 practice\\2_6.c",
+              "ToolTip": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_6.c",
+              "RelativeToolTip": "chapter 2 practice\\2_6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-24T07:36:33.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2_5.c",
+              "DocumentMoniker": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_5.c",
+              "RelativeDocumentMoniker": "chapter 2 practice\\2_5.c",
+              "ToolTip": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_5.c",
+              "RelativeToolTip": "chapter 2 practice\\2_5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-24T07:13:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "2_4.c",
-              "DocumentMoniker": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_4.c",
+              "DocumentMoniker": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_4.c",
               "RelativeDocumentMoniker": "chapter 2 practice\\2_4.c",
-              "ToolTip": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_4.c",
+              "ToolTip": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_4.c",
               "RelativeToolTip": "chapter 2 practice\\2_4.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -39,29 +158,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "2_3.c",
-              "DocumentMoniker": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_3.c",
+              "DocumentMoniker": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_3.c",
               "RelativeDocumentMoniker": "chapter 2 practice\\2_3.c",
-              "ToolTip": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_3.c",
+              "ToolTip": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_3.c",
               "RelativeToolTip": "chapter 2 practice\\2_3.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-09-23T05:13:35.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T05:13:35.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "2_2.c",
-              "DocumentMoniker": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_2.c",
+              "DocumentMoniker": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_2.c",
               "RelativeDocumentMoniker": "chapter 2 practice\\2_2.c",
-              "ToolTip": "C:\\Github\\C\uC5B8\uC5B4\uC758-\uC815\uC11D-\uC2E4\uC2B5\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_2.c",
+              "ToolTip": "C:\\Github\\c-jeongseok-practice\\Chapter02\\chapter 2 practice\\chapter 2 practice\\2_2.c",
               "RelativeToolTip": "chapter 2 practice\\2_2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-09-23T04:39:46.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T04:39:46.373Z"
             }
           ]
         }
